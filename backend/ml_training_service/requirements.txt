@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+pandas
+scikit-learn
+mlflow
+python-dotenv
